@@ -1,5 +1,11 @@
+<!-- PROJECT HEADER -->
+<h1>
 <p align="center">
-  Football Prediction: Mid-Season Overachievers
+  <br> Football Prediction: Mid-Season Overachievers
+</p>
+</h1>
+
+<p align="center">
   <br />
   <a href="#overview">Overview</a>
   ·
