@@ -1,4 +1,19 @@
-# Football Prediction: Mid-Season Overachieves
+<p align="center">
+  Football Prediction: Mid-Season Overachievers
+  <br />
+  <a href="#overview">Overview</a>
+  ·
+  <a href="#repository-contents">Repository contents</a>
+  ·
+  <a href="#instructions">Instructions</a>
+  ·
+  <a href="#running-scripts">Running Scripts</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13.2-blue?style=flat-square" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square" alt="License">
+</p>
 
 ## Overview
 This project explores a model designed to predict whether football teams can maintain their mid-season form by incorporating performance metrics and bookmaker odds. The model outperformed climatology in 4 out of 5 cases, demonstrating the limitations of relying solely on bookmaker odds. Instead, it highlights the importance of considering expected goals and other key performance metrics.
