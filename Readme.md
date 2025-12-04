@@ -14,6 +14,8 @@
   <a href="#instructions">Instructions</a>
   ·
   <a href="#running-scripts">Running Scripts</a>
+  ·
+  <a href="#report">Report</a>
 </p>
 
 <p align="center">
@@ -68,3 +70,7 @@ project/
 ```bash
 Enter season to study: 2022-2023
 ```
+
+## Report
+For detailed analysis and results, please refer to the **project report**, included in the repository.
+📄 **[Project Report (PDF)](docs/report.pdf)**
